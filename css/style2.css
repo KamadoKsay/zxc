@@ -6,6 +6,7 @@
     height: 300px;
     margin-left: 20px;
 }
+
 .div2{
     color: white;
     background-color:#09d066;
@@ -15,6 +16,7 @@
     margin-left: 20px;
     
 }
+
 .div3{
     color: white;
     background-color: #303137;
@@ -24,12 +26,13 @@
     margin-left: 20px;
     
 }
+
 .bob{
     display: flex;
     flex-wrap: nowrap;
     margin-inline: 250PX;
-    
 }
+
 button {
     width: 200px;
     height: 66px;
@@ -37,6 +40,7 @@ button {
     border: none;
     color: white;
   }
+
   .text{
     width: 494px;
 height: 230px;
@@ -46,7 +50,8 @@ color: #717171;
 font-weight: 400;
 font-family: "Arial, Helvetica, sans-serif";
   }
-  .d{
+
+  .B{
     font-size: 25px;
     line-height: 24px;
     color: #09d066;
@@ -54,10 +59,38 @@ font-family: "Arial, Helvetica, sans-serif";
     font-family: "Arial, Helvetica, sans-serif";
     text-align: left;
   }
+
   h2{
-    font-size: 20px;
+    font-size: 30px;
 line-height: 30px;
 color: #ffffff;
 font-weight: 400;
 font-family: "Arial, Helvetica, sans-serif";
+  }
+  .img {
+float: right;
+margin-top: -310px;
+  }
+
+  p{
+    width: 251px;
+height: 86px;
+font-size: 25px;
+line-height: 24px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Arial, Helvetica, sans-serif";
+  }
+
+  .ph{
+    font-size: 30px;
+line-height: 30px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Arial, Helvetica, sans-serif";
+  }
+
+  .bob2{
+margin-left: 220px;
+margin-top: 150px;
   }
