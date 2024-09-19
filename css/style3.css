@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Arial, Helvetica, sans-serif";
     margin: 0;
     padding: 0;
     background-color: #09d066;
@@ -76,6 +76,7 @@ body {
 .appointment-section h2 {
     font-size: 24px;
     margin-bottom: 20px;
+    font-family: "Arial, Helvetica, sans-serif";
 }
 
 .appointment-section button {
@@ -89,6 +90,11 @@ body {
     font-size: 20px;
     margin-top: -100px;
     margin-right: 150px;
+}
+.appointment-section p{
+    font-size: 30px;
+    color: #303137;
+    font-family: "Arial, Helvetica, sans-serif";
 }
 
 .footer {
