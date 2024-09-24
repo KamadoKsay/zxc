@@ -1,0 +1,114 @@
+.about-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    background-color: #fff;
+}
+
+.about-content {
+    max-width: 50%;
+    padding-right: 20px;
+    left: 285px;
+position: absolute;
+}
+
+.about-content h2 {
+    color: #0CC04C;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-content h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.about-content p {
+    width: 580px;
+height: 206px;
+font-size: 17px;
+line-height: 30px;
+color: #666666;
+font-weight: 400;
+font-family: "Poppins";
+}
+
+.read-more-btn {
+    background-color: #0CC04C;
+    color: #fff;
+    border: none;
+    width: 200px;
+height: 66px;
+}
+
+.about-images img {
+    max-width: 100%;
+    height: auto;
+    left: 850px;
+    padding: 25px;
+    background-color: #e8e8ea;
+position: absolute;
+}
+.image img{
+    max-width: 100%;
+    height: auto;
+    left: 1150px;
+    padding: 25px;
+    background-color: #e8e8ea;
+position: absolute; 
+}
+
+.pages-left img{
+    position: absolute;  
+    top: 1040px;
+    left: 100px;
+width: 25px;
+}
+.pages-right img{
+    position: absolute;  
+    top: 1040px;
+    right: 100px;
+width: 25px;
+}
+.about-us{
+    width: 228px;
+    height: 60px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 790px;
+    left: 285px;
+    padding: 0;
+}
+.get-app{
+    width: 228px;
+    height: 60px;
+    background-color: #303036;
+    position: absolute;
+    top: 790px;
+    left: 537px;
+padding: 0;
+}
+.about-us a
+{
+    color: hsl(0, 0%, 0%);
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+    padding-top: 25px;
+    padding-bottom: 2800px;
+    line-height: 30px;
+    font-weight: 400;
+font-family: "Poppins";
+text-align: justify-all;
+    }
+    .get-app a{
+        font-size: 17px;
+line-height: 30px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Poppins";
+text-align: justify-all;
+
+    }
