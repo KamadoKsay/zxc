@@ -163,3 +163,79 @@ text-align: justify-all;
       font-weight: 400;
       font-family: "Righteous";
       }
+      .image img{
+        max-width: 100%;
+        height: auto;
+        left: 1150px;
+        padding: 25px;
+        background-color: #e8e8ea;
+    position: absolute; 
+    }
+    .home li{
+          position: absolute;
+          left: 320px; 
+          top: 5px;
+    }
+    .about li{
+        position: absolute;
+       left: 520px; 
+        top: 5px;   
+    }
+    .doctor li{
+        position: absolute;
+        left: 720px; 
+         top: 5px;   
+    }
+    .logo img{
+        position: absolute; 
+        left: 50%;
+        top: 20px;
+    }
+    .depatments li{
+        position: absolute;
+        left:1070px; 
+        top: 5px; 
+    }
+    .blog li{
+        position: absolute;
+        left: 1270px; 
+         top: 5px; 
+    }
+    .contact li{
+        position: absolute;
+        left: 1410px; 
+         top: 5px; 
+    }
+    .login li{
+        position: absolute;
+        left: 1690px; 
+         top: 5px; 
+         color: green;
+    }
+    .logo-name p{
+        font-size: 30px;
+    line-height: 76px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Righteous";
+    position: absolute;
+    left: 962px;
+    top: 85px;
+    }
+    .heart-logo img{
+        left: 980px;
+        top: 50px; 
+        position: absolute; 
+    }
+    .more-img img{
+        left: 136px;
+        top: 50px; 
+        position: absolute; 
+        width: 70px;
+        height: 65px;
+    }
+    .search img{
+        left: 1610px;
+        top: 70px; 
+        position: absolute;   
+    }
