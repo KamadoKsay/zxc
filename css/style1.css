@@ -133,7 +133,7 @@ position: absolute;
   position: absolute;
   left: 1690px; 
    top: 5px; 
-   color: green;
+   color: #09d066;
 }
 .logo-name p{
   font-size: 30px;
@@ -161,4 +161,30 @@ top: 85px;
   left: 1610px;
   top: 70px; 
   position: absolute;   
+}
+.footer {
+  background-color: #303137;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 500px;
+}
+
+.footer .column {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 1%;
+}
+
+.footer h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 5px;
 }

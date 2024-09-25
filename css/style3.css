@@ -246,3 +246,28 @@ top: 85px;
     top: 70px; 
     position: absolute;   
 }
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer .column {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 1%;
+}
+
+.footer h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 5px;
+}
