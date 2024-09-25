@@ -247,12 +247,12 @@ top: 85px;
     position: absolute;   
 }
 .footer {
-    background-color: #333;
+    background-color: #303137;
     color: white;
     padding: 20px 0;
     text-align: center;
-}
-
+    margin-top: 500px;
+  }
 .footer .column {
     display: inline-block;
     vertical-align: top;
