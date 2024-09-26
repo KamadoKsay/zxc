@@ -141,7 +141,7 @@ nav {
     text-decoration: none;
     font-size: 10px;
     font-weight: 70;
-    padding: 45px;
+    padding: 5px;
   }
   
   li,
@@ -181,17 +181,17 @@ position: absolute;
 .home li{
       position: absolute;
       left: 320px; 
-      top: 5px;
+      top: 45px;
 }
 .about li{
     position: absolute;
    left: 520px; 
-    top: 5px;   
+    top: 45px;   
 }
 .doctor li{
     position: absolute;
     left: 720px; 
-     top: 5px;   
+     top: 45px;   
 }
 .logo img{
     position: absolute; 
@@ -201,22 +201,22 @@ position: absolute;
 .depatments li{
     position: absolute;
     left:1070px; 
-    top: 5px; 
+    top: 45px; 
 }
 .blog li{
     position: absolute;
     left: 1270px; 
-     top: 5px; 
+     top: 45px; 
 }
 .contact li{
     position: absolute;
     left: 1410px; 
-     top: 5px; 
+     top: 45px; 
 }
 .login li{
     position: absolute;
     left: 1690px; 
-     top: 5px; 
+     top: 45px; 
      color: green;
 }
 .logo-name p{
